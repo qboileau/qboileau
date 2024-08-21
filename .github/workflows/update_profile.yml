@@ -43,8 +43,8 @@ jobs:
           #plugin_habits_facts: yes
           #plugin_habits_charts: yes
 
-          plugin_stars: yes
-          plugin_stars_limit: 4
+          #plugin_stars: yes
+          #plugin_stars_limit: 4
 
           #plugin_reactions: yes
           #plugin_reactions_limit: 200
@@ -54,7 +54,7 @@ jobs:
           # plugin_followup: yes
           # plugin_followup_sections: repositories, user
 
-          plugin_lines: yes
+          #plugin_lines: yes
 
           #plugin_traffic: yes
 
